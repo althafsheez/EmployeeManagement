@@ -1,0 +1,362 @@
+[
+  {
+    "model": "employee.employee",
+    "pk": 1,
+    "fields": {
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe1@example.com",
+      "position": "Developer",
+      "department": "IT",
+      "present": true,
+      "working_hours": "38.50",
+      "hire_date": "2025-05-22",
+      "salary": "55000.00",
+      "address": "123 Main St, City",
+      "created_at": "2025-05-22T10:00:00Z",
+      "updated_at": "2025-05-22T10:00:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 2,
+    "fields": {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith2@example.com",
+      "position": "Manager",
+      "department": "Management",
+      "present": false,
+      "working_hours": "40.00",
+      "hire_date": "2025-05-21",
+      "salary": "75000.00",
+      "address": "456 Oak Ave, City",
+      "created_at": "2025-05-21T09:30:00Z",
+      "updated_at": "2025-05-21T09:30:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 3,
+    "fields": {
+      "first_name": "Alice",
+      "last_name": "Johnson",
+      "email": "alice.johnson3@example.com",
+      "position": "QA Engineer",
+      "department": "Quality Assurance",
+      "present": true,
+      "working_hours": "36.75",
+      "hire_date": "2025-04-30",
+      "salary": "48000.00",
+      "address": "789 Pine Rd, City",
+      "created_at": "2025-04-30T08:15:00Z",
+      "updated_at": "2025-04-30T08:15:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 4,
+    "fields": {
+      "first_name": "Bob",
+      "last_name": "Williams",
+      "email": "bob.williams4@example.com",
+      "position": "Designer",
+      "department": "Design",
+      "present": true,
+      "working_hours": "40.00",
+      "hire_date": "2025-03-20",
+      "salary": "52000.00",
+      "address": "101 Maple St, City",
+      "created_at": "2025-03-20T11:00:00Z",
+      "updated_at": "2025-03-20T11:00:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 5,
+    "fields": {
+      "first_name": "Emily",
+      "last_name": "Brown",
+      "email": "emily.brown5@example.com",
+      "position": "Data Analyst",
+      "department": "Data Science",
+      "present": false,
+      "working_hours": "35.50",
+      "hire_date": "2025-02-14",
+      "salary": "60000.00",
+      "address": "202 Birch Blvd, City",
+      "created_at": "2025-02-14T10:45:00Z",
+      "updated_at": "2025-02-14T10:45:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 6,
+    "fields": {
+      "first_name": "Michael",
+      "last_name": "Davis",
+      "email": "michael.davis6@example.com",
+      "position": "HR",
+      "department": "Human Resources",
+      "present": true,
+      "working_hours": "40.00",
+      "hire_date": "2025-01-05",
+      "salary": "45000.00",
+      "address": "303 Cedar Ln, City",
+      "created_at": "2025-01-05T09:00:00Z",
+      "updated_at": "2025-01-05T09:00:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 7,
+    "fields": {
+      "first_name": "Laura",
+      "last_name": "Martinez",
+      "email": "laura.martinez7@example.com",
+      "position": "Developer",
+      "department": "IT",
+      "present": false,
+      "working_hours": "38.00",
+      "hire_date": "2024-12-15",
+      "salary": "57000.00",
+      "address": "404 Elm St, City",
+      "created_at": "2024-12-15T08:30:00Z",
+      "updated_at": "2024-12-15T08:30:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 8,
+    "fields": {
+      "first_name": "Daniel",
+      "last_name": "Garcia",
+      "email": "daniel.garcia8@example.com",
+      "position": "QA Engineer",
+      "department": "Quality Assurance",
+      "present": true,
+      "working_hours": "39.50",
+      "hire_date": "2024-11-10",
+      "salary": "49000.00",
+      "address": "505 Walnut St, City",
+      "created_at": "2024-11-10T07:45:00Z",
+      "updated_at": "2024-11-10T07:45:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 9,
+    "fields": {
+      "first_name": "Sarah",
+      "last_name": "Wilson",
+      "email": "sarah.wilson9@example.com",
+      "position": "Manager",
+      "department": "Management",
+      "present": true,
+      "working_hours": "40.00",
+      "hire_date": "2024-10-22",
+      "salary": "78000.00",
+      "address": "606 Chestnut St, City",
+      "created_at": "2024-10-22T10:10:00Z",
+      "updated_at": "2024-10-22T10:10:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 10,
+    "fields": {
+      "first_name": "Peter",
+      "last_name": "Lopez",
+      "email": "peter.lopez10@example.com",
+      "position": "Designer",
+      "department": "Design",
+      "present": false,
+      "working_hours": "37.75",
+      "hire_date": "2024-09-15",
+      "salary": "53000.00",
+      "address": "707 Spruce Rd, City",
+      "created_at": "2024-09-15T11:30:00Z",
+      "updated_at": "2024-09-15T11:30:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 11,
+    "fields": {
+      "first_name": "Olivia",
+      "last_name": "Hall",
+      "email": "olivia.hall11@example.com",
+      "position": "Data Analyst",
+      "department": "Data Science",
+      "present": true,
+      "working_hours": "40.00",
+      "hire_date": "2024-08-10",
+      "salary": "61000.00",
+      "address": "808 Willow Ln, City",
+      "created_at": "2024-08-10T09:20:00Z",
+      "updated_at": "2024-08-10T09:20:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 12,
+    "fields": {
+      "first_name": "James",
+      "last_name": "Young",
+      "email": "james.young12@example.com",
+      "position": "HR",
+      "department": "Human Resources",
+      "present": false,
+      "working_hours": "40.00",
+      "hire_date": "2024-07-05",
+      "salary": "46000.00",
+      "address": "909 Poplar St, City",
+      "created_at": "2024-07-05T08:00:00Z",
+      "updated_at": "2024-07-05T08:00:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 13,
+    "fields": {
+      "first_name": "Sophia",
+      "last_name": "King",
+      "email": "sophia.king13@example.com",
+      "position": "Developer",
+      "department": "IT",
+      "present": true,
+      "working_hours": "39.00",
+      "hire_date": "2024-06-01",
+      "salary": "58000.00",
+      "address": "1010 Cypress Rd, City",
+      "created_at": "2024-06-01T07:40:00Z",
+      "updated_at": "2024-06-01T07:40:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 14,
+    "fields": {
+      "first_name": "Matthew",
+      "last_name": "Scott",
+      "email": "matthew.scott14@example.com",
+      "position": "QA Engineer",
+      "department": "Quality Assurance",
+      "present": false,
+      "working_hours": "38.50",
+      "hire_date": "2024-05-10",
+      "salary": "50000.00",
+      "address": "1111 Aspen St, City",
+      "created_at": "2024-05-10T09:10:00Z",
+      "updated_at": "2024-05-10T09:10:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 15,
+    "fields": {
+      "first_name": "Emma",
+      "last_name": "Green",
+      "email": "emma.green15@example.com",
+      "position": "Manager",
+      "department": "Management",
+      "present": true,
+      "working_hours": "40.00",
+      "hire_date": "2024-04-20",
+      "salary": "77000.00",
+      "address": "1212 Fir Ln, City",
+      "created_at": "2024-04-20T10:50:00Z",
+      "updated_at": "2024-04-20T10:50:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 16,
+    "fields": {
+      "first_name": "David",
+      "last_name": "Baker",
+      "email": "david.baker16@example.com",
+      "position": "Designer",
+      "department": "Design",
+      "present": false,
+      "working_hours": "37.00",
+      "hire_date": "2024-03-25",
+      "salary": "54000.00",
+      "address": "1313 Redwood Rd, City",
+      "created_at": "2024-03-25T08:20:00Z",
+      "updated_at": "2024-03-25T08:20:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 17,
+    "fields": {
+      "first_name": "Isabella",
+      "last_name": "Nelson",
+      "email": "isabella.nelson17@example.com",
+      "position": "Data Analyst",
+      "department": "Data Science",
+      "present": true,
+      "working_hours": "39.75",
+      "hire_date": "2024-02-15",
+      "salary": "62000.00",
+      "address": "1414 Sequoia Ln, City",
+      "created_at": "2024-02-15T07:55:00Z",
+      "updated_at": "2024-02-15T07:55:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 18,
+    "fields": {
+      "first_name": "Chris",
+      "last_name": "Campbell",
+      "email": "chris.campbell18@example.com",
+      "position": "HR",
+      "department": "Human Resources",
+      "present": false,
+      "working_hours": "40.00",
+      "hire_date": "2024-01-10",
+      "salary": "47000.00",
+      "address": "1515 Magnolia St, City",
+      "created_at": "2024-01-10T08:10:00Z",
+      "updated_at": "2024-01-10T08:10:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 19,
+    "fields": {
+      "first_name": "Megan",
+      "last_name": "Edwards",
+      "email": "megan.edwards19@example.com",
+      "position": "Developer",
+      "department": "IT",
+      "present": true,
+      "working_hours": "38.00",
+      "hire_date": "2023-12-05",
+      "salary": "56000.00",
+      "address": "1616 Dogwood Rd, City",
+      "created_at": "2023-12-05T09:30:00Z",
+      "updated_at": "2023-12-05T09:30:00Z"
+    }
+  },
+  {
+    "model": "employee.employee",
+    "pk": 20,
+    "fields": {
+      "first_name": "Andrew",
+      "last_name": "Foster",
+      "email": "andrew.foster20@example.com",
+      "position": "QA Engineer",
+      "department": "Quality Assurance",
+      "present": false,
+      "working_hours": "37.50",
+      "hire_date": "2023-11-01",
+      "salary": "49500.00",
+      "address": "1717 Hawthorn St, City",
+      "created_at": "2023-11-01T10:20:00Z",
+      "updated_at": "2023-11-01T10:20:00Z"
+    }
+  }
+]
